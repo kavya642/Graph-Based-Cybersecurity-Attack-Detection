@@ -27,8 +27,3 @@ CICIDS 2018 dataset is used for analysis.
 ## ▶️ How to Run
 ```bash
 python src/main.py
-
-
--
-git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
-git push -u origin main
