@@ -29,27 +29,6 @@ CICIDS 2018 dataset is used for analysis.
 python src/main.py
 
 
----
-
-# 🚀 STEP–6: Upload Code to GitHub
-
-## Method 1 (Easiest – Drag & Drop)
-
-1. Open your GitHub repo  
-2. Click **“Add file” → Upload files**  
-3. Drag your project folder files  
-4. Click **Commit changes**
-
----
-
-## Method 2 (Using Git – Optional)
-
-Open terminal in your project folder:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - Cybersecurity Project"
-git branch -M main
+-
 git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
 git push -u origin main
