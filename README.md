@@ -70,3 +70,10 @@ The system generates an interactive graph where:
 ```bash
 pip install -r requirements.txt
 python src/main.py
+
+## 🌐 Streamlit Dashboard
+
+Run the interactive dashboard:
+
+```bash
+streamlit run src/app.py
